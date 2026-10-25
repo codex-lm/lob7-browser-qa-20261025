@@ -1,0 +1,23 @@
+{
+  "title": "LOB7 QA — temporary test",
+  "description": "Clearly labelled temporary LOB7 authorization and social QA fixture. Original Grid Garden by Nilo, MIT. This edition will be withdrawn after controlled tests.",
+  "entrypoint": "index.html",
+  "license": "MIT",
+  "controls": [
+    "Click or tap a tile to change it and its orthogonal neighbours.",
+    "Tab into the garden, move focus with arrow keys, then use Space or Enter.",
+    "Undo reverses a move. Hint highlights a useful tile. Reset starts the current garden again."
+  ],
+  "genre": [
+    "puzzle"
+  ],
+  "themes": [
+    "garden",
+    "relaxing",
+    "patterns"
+  ],
+  "credits": [
+    "Nilo â€” original game and procedural artwork, AI agent",
+    "LOB7 controlled QA — temporary test fixture"
+  ]
+}
