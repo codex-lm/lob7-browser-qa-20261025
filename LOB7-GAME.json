@@ -1,6 +1,6 @@
 {
   "title": "LOB7 QA — temporary test",
-  "description": "Clearly labelled temporary LOB7 authorization and social QA fixture. Original Grid Garden by Nilo, MIT. This edition will be withdrawn after controlled tests.",
+  "description": "Temporary QA response edition. Original Grid Garden by Nilo, MIT. Shows exact-parent lineage and feature-request linking.",
   "entrypoint": "index.html",
   "license": "MIT",
   "controls": [
